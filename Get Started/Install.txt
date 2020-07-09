@@ -1,0 +1,14 @@
+^^ Flutter depends on these tools being available in your environment.
+
+1. Windows PowerShell
+2. Git
+
+
+
+^^ You can install Flutter in one of the two ways
+
+1. By doawnloading a .zip folder and install  
+
+^^ Do not install Flutter in a directory like C:\Program Files\ that requires elevated privileges)
+
+2. Clone Flutter repo on Github
